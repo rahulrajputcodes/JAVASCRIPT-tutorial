@@ -1,0 +1,5 @@
+"use strict"; // treats all JS code as a newer version 
+
+// alert(3+3) // we are using nodejs , not browser
+// code must be readable enough too 
+// console.log(6+6); console.log(8)  // bad practice 
