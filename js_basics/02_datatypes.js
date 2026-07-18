@@ -24,3 +24,10 @@ console.log(typeof(age))
 
 console.log(typeof null) //object
 console.log(typeof undefined) //undefined
+
+const id = Symbol('123')
+const anotherId = Symbol("123")
+console.log(id === anotherId)
+
+const bigNum = 37879739879381931n
+console.log(typeof bigNum)

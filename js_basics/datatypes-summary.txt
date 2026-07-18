@@ -1,0 +1,16 @@
+Primitive dt -
+7 types :
+string 
+number
+boolean
+null
+undefined
+symbol
+BigInt
+
+Reference/Non-Primitive dt -
+array 
+objects 
+functions
+
+JavaScript is a dynamically typed language
