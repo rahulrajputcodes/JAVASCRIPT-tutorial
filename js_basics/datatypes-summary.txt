@@ -13,4 +13,28 @@ array
 objects 
 functions
 
+const heros = [A,B,C,D] // array
+
+// object
+
+let myObj ={ 
+    name:"rahul"
+    age:21
+}
+
+// function
+
+const myFunction = function(){
+    console.log("Hello world")
+}
+
 JavaScript is a dynamically typed language
+
+typeof null -- object
+
+typeof ---
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stack (Primitive) - copy , Heap (Non-Primitive) - reference
