@@ -23,3 +23,5 @@ console.log(typeof newarr) // string
 // slice , splice 
 
 console.log("A", myarr)
+const myn1 = myarr.slice(1, 3) // [1, 2] , does not change the original array
+const myn2 = myarr.splice(1, 3) // returns [1,2,3] , changes the original array too
